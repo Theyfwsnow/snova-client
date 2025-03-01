@@ -3,9 +3,9 @@
   "name": "Snova Client",
   "id": "meteor-client",
   "version": "${version}",
-  "description": "Reskinned Meteor..",
+  "description": "Better then your client bud",
   "authors": [
-    "Theyfwsnow",
+    "Winter_papi",
     "nova3ris"
   ],
   "contact": {
@@ -30,7 +30,7 @@
   "accessWidener": "meteor-client.accesswidener",
   "custom": {
     "meteor-client:devbuild": "${devbuild}",
-    "meteor-client:color": "232, 232, 232",
+    "meteor-client:color": "255, 0, 0",
     "meteor-client:commit": "${commit}",
     "modmenu": {
       "links": {
